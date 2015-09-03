@@ -1,17 +1,69 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+170.158.237.168 - ok
+33.97.55.20 - ok
+85.68.132.173 - ok
+20.6.200.171 - ok
+12.71.18.24 - ok
+118.162.193.138 - ok
+179.125.78.223 - ok
+61.193.32.174 - ok
+173.175.198.246 - ok
+1.52.73.187 - ok
+118.152.71.180 - ok
+227.174.185.253 - ok
+116.95.154.2 - ok
+69.191.244.221 - ok
+141.181.98.94 - ok
+6.140.254.36 - ok
+70.223.126.115 - ok
+183.140.165.92 - ok
+69.173.204.69 - ok
+118.152.71.180 - ok
+163.205.49.115 - ok
+243.229.41.120 - ok
+11.150.196.60 - ok
+158.57.146.38 - ok
+42.99.36.4 - ok
+145.167.223.141 - ok
+109.35.71.56 - ok
+28.246.65.232 - ok
+50.214.226.96 - ok
+69.191.244.221 - ok
+66.167.144.197 - ok
+107.14.244.214 - ok
+115.105.147.134 - ok
+54.132.229.52 - ok
+221.220.61.87 - ok
+124.99.152.180 - ok
+28.100.241.134 - ok
+123.85.89.229 - ok
+160.140.241.147 - no
+231.243.93.148 - no
+24.117.84.122 - no
+234.179.2.77 - ok
+35.247.87.66 - ok
+230.142.246.83 - ok
+156.229.182.70 - ok
+141.111.254.97 = ok
+190.245.234.119 - ok
+102.236.186.58 - ok
+146.152.88.95 - ok
+96.212.218.209 - ok
+1.86.69.220 - ok
+135.222.41.67 - ok
+167.89.186.95 - ok
+187.197.79.116- ok
+215.246.97.138 - ok
+173.96.212.211 - ok
+70.50.60.49 - ok
+251.120.59.243 - ok
+72.191.13.185 - ok
+186.43.160.157 - ok
+251.8.64.132 - ok
+37.155.81.25 - ok
+180.28.89.186 - ok
+153.137.76.30 = ok
 
-# Custom for Visual Studio
-*.cs     diff=csharp
 
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+
+
+“Nós lutamos. É assim que vencemos. E é assim que morremos.”
